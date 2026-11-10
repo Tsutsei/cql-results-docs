@@ -1,0 +1,8 @@
+title: CQL Results for Confluence
+description: Search Confluence with CQL and show the results as tables on a search page and in pages – user guide, FAQ, privacy, terms and support.
+theme: minima
+header_pages:
+  - index.md
+  - guide.md
+  - faq.md
+  - support.md
