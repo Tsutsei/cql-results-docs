@@ -6,7 +6,7 @@ permalink: /dpa/
 
 _Last updated: 10 November 2026_
 
-This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **CQL Results – Search Tables for Confluence** ("Customer", controller) and **Bc. Tomáš Buchta, sole trader, IČO 21540951, 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
+This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **CQL Results – Search Tables for Confluence** ("Customer", controller) and **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal.html) page ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
 
 1. **Subject matter and duration.** Searching the Customer's Confluence site and displaying the results on a search page, in page macros and in page exports, for as long as the App is installed.
 2. **Nature and purpose.** Running Confluence searches (CQL) with the viewing user's permissions and returning the results (titles, spaces, names of owners and editors, dates, labels, excerpts) to that user's browser or page export. Nothing is stored.

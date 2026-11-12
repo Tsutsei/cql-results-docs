@@ -6,7 +6,7 @@ permalink: /privacy/
 
 _Last updated: 10 November 2026_
 
-This policy describes how the Atlassian Marketplace app "CQL Results – Search Tables for Confluence" (the "App") processes data. The App is provided by **Bc. Tomáš Buchta, sole trader, Company ID (IČO) 21540951, registered office 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("we"). Contact: **[support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net)**.
+This policy describes how the Atlassian Marketplace app "CQL Results – Search Tables for Confluence" (the "App") processes data. The App is provided by **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal.html) page ("we"). Contact: **[support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net)**.
 
 ## 1. What the App stores
 **Nothing.** The App has no database and no storage. The settings of a CQL Results macro (the query, the columns) are part of the Confluence page, like the settings of any macro. A search shared as a link is held in the link itself.
